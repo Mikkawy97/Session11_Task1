@@ -1,0 +1,164 @@
+
+.light-bg{
+    width: 100%;
+    height: 250px;
+ 
+  
+    
+
+}
+.bg-light-blue{
+    background-color: 
+    #20222f;
+}
+.bg-light-gray{
+    background-color: 
+    #f8f9fe;
+}
+.bg-blue{
+    background-color: 
+    #1d2029;
+}
+.bg-white{
+    background-color: white;
+}
+.all-wrapper{
+   
+   
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 100%;
+
+}
+.first_sect{
+    margin-top: -230px;
+}
+.js-card{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-between;
+    
+    color: white;
+    border-style: solid;
+    border-bottom-width:0px ;
+    border-right-width:0px ;
+    border-left-width:0px ;
+    border-top-width:2px ;
+    height: 100%;
+    border-radius: 8px;
+    
+
+
+
+
+}
+.bg-card-blue{
+    background-color: 
+    #252b43;
+}
+.bg-card-gray{
+    background-color: 
+    #f0f3fa;
+}
+.facebook-bt{
+    border-top-color:#198ff5 ;
+}
+.instagram-bt{
+    border-image: linear-gradient(to right, #fcbf68, #df5192) 1;
+}
+.twitter-bt{
+    border-top-color:#198ff5 ;
+}
+.youtube-bt{
+    border-top-color: #c2042b;
+}
+.facebook{
+    color:#198ff5 ;
+}
+.instagram{
+    background-image: linear-gradient(to right, #fcbf68 , #df5192);
+}
+.twitter{
+   color:#198ff5 ;
+}
+.youtube{
+   color: #c2042b;
+}
+.cards-render i{
+ margin-right: 5px;
+}
+.color-green{
+    color: #419388;
+}
+.font-40{
+    font-size: 40px;
+    font-weight: 700;
+   
+}
+.icon-wrap i{
+    margin-right: 10px;
+    font-size: 21px;
+}
+.icon-wrap div{
+    color:lightslategray;
+    font-size: 14px;
+}
+
+.sub_title{
+    color:lightslategray;
+    font-size: 14px;
+}
+.text_white{
+    color:white;
+}
+.text-black{
+    color: black;
+}
+.static_card{
+    padding: 15px;
+  
+    border-radius: 8px;
+
+}
+.static_card .card_title{
+    color:lightslategray;
+    font-size: 14px;
+
+
+}
+.static_card i{
+    
+    color:#198ff5 ;
+    font-size: 21px;
+
+}
+.static_card .num{
+    
+    
+    font-size: 40px;
+
+}
+.static_card .i-wrapper i{
+    color: green;
+    font-size: 15px;
+    margin-right: 10px;
+
+
+}
+.static_card .i-wrapper div{
+    color: green;
+    font-size: 15px;
+    
+
+}
+.mr-5{
+    margin-right: 5px;
+}
+form input{
+    width: 100%;
+}
+form select{
+    width: 100%;
+}
